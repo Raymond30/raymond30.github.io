@@ -1,7 +1,9 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
-== Cooperative Diversity in Over-the-Air Computation
+== Current
+=== Cooperative Diversity in Over-the-Air Computation
+{}{img}{photos/relay_aircomp.png}{A photo of myself}{216}{432}{}
 - Machine learning applications at wireless edge involve collecting 
 massive data from edge devices, which can be very costly. 
 To tackle this challenge, 
@@ -22,7 +24,7 @@ Future work focuses on in-depth analysis of the outage behaviors using random ma
 "Optimal Power Control for Over-the-Air Computation in Fading Channels," \n
 arXiv e-prints. [https://arxiv.org/pdf/1906.06858 Online].
 
-== Reliable Communication in mmWave Vehicular Network Using Deep Learning
+=== Reliable Communication in mmWave Vehicular Network Using Deep Learning
 - The mmWave wireless systems face two main challenges: 
     first, mmWave signals are highly sensitive to blockages, which affects the system reliability especially in 
     a dynamic environment; 
@@ -31,11 +33,29 @@ arXiv e-prints. [https://arxiv.org/pdf/1906.06858 Online].
     sequences. Also, some authors address the beam selection problem by using machine learning tools with situational 
     awareness.
 - Main References:
--- 
-== Soft Decoding of BCH Codes
+-- A. Klautau, P. Batista, N. González-Prelcic, Y. Wang and R. W. Heath,\n
+ "5G MIMO Data for Machine Learning: Application to Beam-Selection Using Deep Learning,"\n 
+/2018 Information Theory and Applications Workshop (ITA)/, San Diego, CA, 2018, pp. 1-9.
+-- A. Alkhateeb, I. Beltagy and S. Alex, \n 
+"Machine Learning for Reliable mmWave Systems: Blockage Prediction and Proactive Handoff," \n
+/2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP)/, Anaheim, CA, USA, 2018, pp. 1055-1059.
+-- Y. Wang, A. Klautau, M. Ribero, A. C. K. Soong and R. W. Heath,\n 
+"MmWave Vehicular Beam Selection With Situational Awareness Using Machine Learning," \n 
+in /IEEE Access/, vol. 7, pp. 87479-87493, 2019.
+
+== Past
+=== Spectral Algorithms in Stochastic Block Model
+
+=== Soft Decoding of BCH Codes
 - BCH codes form a powerful class of error-correcting codes that have been widely 
     used in communication and data storage systems. Traditionally, they are effectively decoded with 
     hard-decision decoding algorithms like Berlekamp-Massey algorithm. However, 
     these hard-decision decoders fail to exploit soft information available, limiting their error performance.
-- Main Reference:
-
+- We explore a recently proposed coding scheme that performs iterative soft decoding of binary BCH codes,  
+    where a collection of codewords are transformed into a non-binary LDPC codeword. 
+    We reproduce the simulation results, and give some interpretations from the perspective of minimum 
+    distance.
+- Main References:
+-- S. Lin, K. Abdel-Ghaffar, J. Li and K. Liu,\n 
+"A Novel Coding Scheme for Encoding and Iterative Soft-Decision Decoding of Binary BCH Codes of Prime Lengths,"\n 
+/2018 Information Theory and Applications Workshop (ITA)/, San Diego, CA, 2018, pp. 1-10.
