@@ -21,8 +21,8 @@
 <h1>Research</h1>
 </div>
 <h2>Current</h2>
-<h3>Cooperative Diversity in Over-the-Air Computation</h3>
-<p><img src="photos/relay_aircomp.png" width="636px" height="306px" alt="Aircomp" /></p>
+<h3>Achieving Cooperative Diversity in Over-the-Air Computation by Relay Selection</h3>
+<p><img src="photos/aircomp_relay.png" width="636px" height="306px" alt="Aircomp" /></p>
 <ul>
 <li><p>Machine learning applications at wireless edge involve collecting 
 massive data from edge devices, which can be very costly. 
@@ -32,18 +32,31 @@ their message simultaneously to achieve ultra-fast aggregation. However, channel
 can severely impair its performance.</p>
 </li>
 <li><p>In this project, we incorporate cooperative diversity techniques into AirComp. 
-We investigate the power control at source nodes and relay schemes at relay nodes respectively.
-Future work focuses on in-depth analysis of the outage behaviors using random matrix theory.</p>
+We first investigate the power control problems and outage performances where there are 
+no relays but the fusion center have single or multiple antennas. We propose an antenna 
+selection scheme that selects the best antenna for reception. We characterize its outage 
+performance and prove the diversity order is equal to the number of receive antennas. 
+Motivated by this result above, we develop a relay selection scheme in relay-aided AirComp 
+where the &ldquo;best&rdquo; relay is chosen to amplify and forward to the fusion center. We demonstrate 
+that this relay selection scheme can also achieve full diversity order and 
+enjoy an outage performance 
+comparable to AirComp with multiple antennas.</p>
 </li>
+</ul>
+<ul>
 <li><p>Main references:</p>
 <ul>
 <li><p>J. N. Laneman, D. N. Tse, and G. W. Wornell, <br />
 &ldquo;Cooperative diversity in wireless networks: Efficient protocols and outage behavior,&rdquo; <br />
 <i>IEEE Transactions on Information theory</i>, vol. 50, no. 12, pp. 3062-3080, 2004.</p>
 </li>
-<li><p>G. Zhu and K. Huang, <br />
-&ldquo;MIMO Over-the-Air Computation for High-Mobility Multimodal Sensing,&rdquo; <br />
-<i>IEEE Internet of Things Journal</i>, vol. 6, no. 4, pp. 6089-6103, Aug. 2019.</p>
+<li><p>Y. Zhao, R. Adve, and T. J. Lim, <br />
+“Improving amplify-and-forward relay networks: Optimal power allocation
+versus selection,”<br /> 
+in <i>2006 IEEE International Symposium on Information Theory</i>, pp. 1234–1238.
+
+
+</p>
 </li>
 <li><p>X. Cao, G. Zhu, J. Xu, and K. Huang, <br />
 &ldquo;Optimal Power Control for Over-the-Air Computation in Fading Channels,&rdquo; <br />
@@ -86,9 +99,23 @@ in <i>IEEE Access</i>, vol. 7, pp. 87479-87493, 2019.</p>
 </li>
 </ul>
 <h2>Past</h2>
-<h3>Spectral Algorithms in Stochastic Block Model</h3>
+<h3>Error Rate of Spectral Algorithms in the Stochastic Block Model</h3>
 <ul>
-<li><p>Examined the theoretical bound of spectral algorithm</p>
+<li><p>The stochastic block model is a canonical random graph model for studying clustering and community detection 
+algorithms. Spectral algorithms and its variants are simple and proved to achieve exact recovery threshold 
+in the logarithmic degree regime.</p>
+</li>
+<li><p>We pursued a uniform bound on the error rate of spectral algorithms in general settings, especially between 
+the weak and exact recovery regimes.</p>
+</li>
+<li><p>Main References:</p>
+<ul>
+<li><p>E. Abbe, J. Fan, K. Wang, and Y. Zhong, <br /> 
+&ldquo;Entrywise Eigenvector Analysis of Random Matrices with Low Expected Rank,&rdquo;<br />
+arXiv e-prints. <a href="https://arxiv.org/pdf/1709.09565.pdf">Online</a>.</p>
+</li>
+</ul>
+
 </li>
 </ul>
 <h3>Soft Decoding of BCH Codes</h3>
@@ -116,7 +143,7 @@ some interpretations from the perspective of minimum distance.</p>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2019-11-12 21:39:03 China Standard Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2020-01-06 20:49:21 China Standard Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
