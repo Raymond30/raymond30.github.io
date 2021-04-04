@@ -7,7 +7,7 @@ Ph.D. student, \n
 [https://www.ece.utexas.edu/ Department of Electrical and Computer Engineering], \n
 [https://www.utexas.edu/ The University of Texas at Austin] \n
 # Phone: +86 13683258743 \n
-E-mail: rjiang \[at\] utexas.edu # \n
+E-mail: rjiang \[at\] utexas \[dot\] edu # \n
 # [Ruichen_Jiang_CV_2019.pdf A brief CV is here].
 ~~~
 
@@ -16,13 +16,21 @@ I am a 1st-year Ph.D. student in the Department of ECE at UT Austin, advised by 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from 
 [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
-Broadly speaking, my research interests lie in the theory of optimization and machine learning. Most recently, 
-I am developing novel algorithms for minimax optimization and studying their applications in game-theoretic learning. 
+My current research interests lie in convex and non-convex optimization as well as the applications in signal processing and machine learning problems. Most recently, 
+I am developing novel algorithms for minimax optimization and online learning. 
 
 == Publications
-- [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection]\[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report] \] \n
+- [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection]\[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
     *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
     Arxiv preprint
+
+- [https://ieeexplore.ieee.org/document/9348844 Achieving Cooperative Diversity in Over-the-Air Computation via Relay Selection] \n
+    *Ruichen Jiang*, Sheng Zhou, and Kaibin Huang \n
+    IEEE VTC2020-Fall, Nov. 2020
+
+- [https://arxiv.org/abs/2008.00994 Cluster-Based Cooperative Digital Over-the-Air Aggregation for Wireless Federated Edge Learning] \n
+    *Ruichen Jiang* and Sheng Zhou \n
+    IEEE/CIC ICCC, Aug. 2020
 
 
 
