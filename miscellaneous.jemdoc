@@ -1,19 +1,33 @@
 # jemdoc: menu{MENU}{miscellaneous.html}
-= Miscellaneous
-Initially, I chose to take math courses just out of interest, 
-but then it becomes an indispensible part of my life. Still I 
-== Courses
+= Miscellaneous 
+
+== Math Courses
+Here is a non-exhaustive list about the math courses I have taken (and enjoyed).
 === Current
-- Functional Analysis
-- Statistical Inference
-- Differential Geometry
+- Functional Analysis, Autumn 2019
+-- Syllabus: normed vector spaces, Banach spaces, Soblev spaces, Hilbert spaces, Hahn-Banach theorem, 
+Banach open mapping theorem, uniform boundedness principle, and convex sets 
+- Theory and Methods for Statistical Inference, Autumn 2019 (graduate course)
+-- Syllabus: hypothesis testing and estimation, inference and information geometry, large deviation and asymptotic 
+analysis, and inference algorithms
+- Numerical Analysis, Autumn 2019
+-- Syllabus: direct and iterative methods for solving linear systems, iterative methods for nonlinear systems, 
+eigenvalue problems, interpolation, numerical integration and differentiation, and ordinary differential equations
+- Differential Geometry, Autumn 2019
+-- Syllabus: local theory of curves and surfaces, fundamental theorems and intrinsic geometry of surfaces, and 
+selected topics on global geometry
 === Past
-- Convex Optimization
-
-- Measure and Integral
-
-- Probability Theory
-
+- Convex Optimization, Spring 2019 (graduate course)
+-- Textbook: "Convex Optimization" by S. Boyd and L. Vandenberghe
+-- Syllabus:  Convex sets, convex functions, duality, convex optimization problems, gradient methods, 
+subgradient methods, proximal gradient methods, dual decomposition, dual proximal gradient method, accelerated 
+proximal gradient methods, proximal point methods, Douglas-Rachford splitting, and ADMM
+- Measure and Integral, Spring 2019
+-- Textbook: "Real Analysis: Measure Theory, Integration, and Hilbert Spaces" by E.M. Stein and R. Shakarchi
+- Probability Theory, Spring 2018
+-- Textbook: "A Course in Probability Theory" by K.L. Chung
 == Readings
-
+- "Pattern Recognition and Machine Learning" by C.M. Bishop
+- "Elements of Information Theory" by T.M. Cover and J.A. Thomas
+- "Fundamentals of wireless communication" by D. Tse and P. Viswanath 
 
