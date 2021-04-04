@@ -12,46 +12,20 @@ E-mail: rjiang \[at\] utexas.edu # \n
 ~~~
 
 == About me
-I am a 4th-year undergraduate student in Tsinghua University major in Electronic Engineering, and 
-I am also pursuing a second degree in Pure and Applied Mathematics [miscellaneous.html (more about my math background)]. Since March 2019, I have 
-been working at  
-[http://www.ee.tsinghua.edu.cn/publish/eeen/3771/index.html Institute of Communication], advised by 
-[http://network.ee.tsinghua.edu.cn/shengzhou/index.html Prof. Sheng Zhou]. From July to November in 
-2018, I visited [https://www.unsw.edu.au/ University of New South Wales] and was advised by 
-[https://www.engineering.unsw.edu.au/electrical-engineering/professor-jinhong-yuan Prof. Jinhong Yuan]. 
-In summer 2019, I took a research internship in [https://hku.hk/ the University of Hong Kong], 
-advised by [https://www.eee.hku.hk/~huangkb/Home.html Prof. Kaibin Huang].
+I am a 1st-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from 
+[https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
-== Education
-- *Tsinghua University* ~~~~Beijing, China
--- 2016.8 -- 2020.6 (Expected) Bachelor of Engineering in Electronic Engineering 
---- GPA: 3.86\/4.0; Rank: 10\/266
--- 2017.9 -- 2020.6 (Expected) Second Bachelor's Degree in Pure and Applied Mathematics
---- GPA: 3.81\/4.0
-- *University of New South Wales* ~~~~Sydney, Australia
--- 2018.7 -- 2018.11 Exchange Student
+Broadly speaking, my research interests lie in the theory of optimization and machine learning. Most recently, 
+I am developing novel algorithms for minimax optimization and studying their applications in game-theoretic learning. 
 
-== Research Interests
-Broadly speaking, I am interested in solving problems that arise in practical systems, especially 
-wireless networks,  
-using tools from information theory, optimization theory and statistics. Some specific research 
-topics include:
+== Publications
+- [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection]\[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report] \] \n
+    *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
+    Arxiv preprint
 
-- Cooperative diversity in wireless networks
-- Distributed machine learning with communication constraints
-- Mobile edge computing and vehicular network
-- High dimensional statistics
 
-== Selected Awards
-- *Joint 2nd place* in the 2nd Simon Marais Mathematics Competition, 2018 
-(creative problem-solving competition similar to Putnam, 
-[https://www.maths.unsw.edu.au/news/2018-12/unsw-student-tops-country-simon-marais-maths-comp in the news])
-- Tsinghua Academic Excellence Award, 2017 -- 2019 
-- 1st Prize for the 34th National Undergraduate Physics Olympic, 2017
-- 3rd Prize for 19th Tsinghua Electronic Design Competition, 2017 (top 8 of 70 teams)
 
-== Services
-- Since March 2019, I have been a tutor at Center for Student Learning and Development for drop-in tutoring, 
-where I help my fellow students solve problems in STEM courses.
+
 
 
