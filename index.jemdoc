@@ -12,7 +12,7 @@ E-mail: rjiang \[at\] utexas \[dot\] edu # \n
 ~~~
 
 == About me
-I am a 1st-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+I am a 2nd-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from 
 [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
@@ -20,6 +20,10 @@ My current research interests lie in convex and non-convex optimization as well 
 I am developing novel algorithms for minimax optimization and online learning. 
 
 == Publications
+- [https://arxiv.org/abs/2104.11549 Antenna Efficiency in Massive MIMO Detection] \n
+    *Ruichen Jiang* and Ya-Feng Liu \n
+    IEEE SPAWC 2021, Sept. 2021
+
 - [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection] \[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
     *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
     Arxiv preprint
