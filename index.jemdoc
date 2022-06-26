@@ -19,29 +19,37 @@ Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree 
 My current research interests lie in convex and non-convex optimization as well as the applications in signal processing and machine learning problems. Most recently, 
 I am developing novel algorithms for minimax optimization and online learning. 
 
-== Publications
+== Preprints
+- [https://arxiv.org/abs/2206.08868 Generalized Frank-Wolfe Algorithm for Bilevel Optimization] \n
+    *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
+    ArXiv preprint, 2022
+
 - [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
     *Ruichen Jiang* and Aryan Mokhtari \n
-    ArXiv preprint
-
-- [https://arxiv.org/abs/2104.11549 Antenna Efficiency in Massive MIMO Detection] \n
-    *Ruichen Jiang* and Ya-Feng Liu \n
-    IEEE SPAWC 2021, Sept. 2021
+    ArXiv preprint, 2022
 
 - [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection] \[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
     *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
-    ArXiv preprint
+    ArXiv preprint, 2021
+
+== Conference Papers
+- [https://openreview.net/forum?id=H34Ah8Loqgq Future Gradient Descent for Adapting the Temporal Shifting Data Distribution in Online Recommendation System] \n
+    Mao Ye, *Ruichen Jiang*, Haoxiang Wang, Dhruv Choudhary, Xiaocong Du, Bhargav Bhushanam, Aryan Mokhtari, Arun Kejariwal, and Qiang Liu \n
+    UAI 2022
+
+- [https://arxiv.org/abs/2104.11549 Antenna Efficiency in Massive MIMO Detection] \n
+    *Ruichen Jiang* and Ya-Feng Liu \n
+    IEEE SPAWC 2021
+    #, Sept. 2021
 
 - [https://ieeexplore.ieee.org/document/9348844 Achieving Cooperative Diversity in Over-the-Air Computation via Relay Selection] \n
     *Ruichen Jiang*, Sheng Zhou, and Kaibin Huang \n
-    IEEE VTC2020-Fall, Nov. 2020
+    IEEE VTC2020-Fall 2020
+    #, Nov. 2020
 
 - [https://arxiv.org/abs/2008.00994 Cluster-Based Cooperative Digital Over-the-Air Aggregation for Wireless Federated Edge Learning] \n
     *Ruichen Jiang* and Sheng Zhou \n
-    IEEE/CIC ICCC, Aug. 2020
-
-
-
-
+    IEEE/CIC ICCC 2020
+    #, Aug. 2020
 
 
