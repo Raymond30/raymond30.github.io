@@ -2,26 +2,25 @@
 = Ruichen Jiang
 
 ~~~
-{}{img_left}{photos/jrc.jpg}{A photo of myself}{216}{288}{https://raymond30.github.io/}
+{}{img_left}{photos/headshot.jpg}{A photo of myself}{218}{221}{https://raymond30.github.io/}
 Ph.D. student, \n
 [https://www.ece.utexas.edu/ Department of Electrical and Computer Engineering], \n
 [https://www.utexas.edu/ The University of Texas at Austin] \n
 # Phone: +86 13683258743 \n
 E-mail: rjiang \[at\] utexas \[dot\] edu \n
-[https://scholar.google.com/citations?user=BGFt1UMAAAAJ&hl=en Google Scholar]
+[https://scholar.google.com/citations?hl=en&user=BGFt1UMAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]
 # [Ruichen_Jiang_CV_2019.pdf A brief CV is here].
 ~~~
 
 == About me
-I am a 2nd-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+I am a 3rd-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from 
 [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
-My current research interests lie in convex and non-convex optimization as well as the applications in signal processing and machine learning problems. Most recently, 
-I am developing novel algorithms for minimax optimization and online learning. 
+My current research interests lie in convex and non-convex optimization as well as online learning problems. Most recently, I am working on *min-max optimization*, *second-order and higher-order methods*, and *bilevel optimization*. 
 
 == Preprints
-- [https://arxiv.org/abs/2206.08868 Generalized Frank-Wolfe Algorithm for Bilevel Optimization] \n
+- [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
     *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
     ArXiv preprint, 2022
 
