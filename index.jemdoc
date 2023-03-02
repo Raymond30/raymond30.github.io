@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
+
 = Ruichen Jiang
 
 ~~~
@@ -20,9 +21,9 @@ Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree 
 My current research interests lie in convex and non-convex optimization as well as online learning problems. Most recently, I am working on *min-max optimization*, *second-order and higher-order methods*, and *bilevel optimization*. 
 
 == Preprints
-- [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
-    *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
-    ArXiv preprint, 2022
+- [https://arxiv.org/abs/2302.08580 Online Learning Guided Curvature Approximation: A Quasi-Newton Method with Global Non-Asymptotic Superlinear Convergence] \n
+ *Ruichen Jiang*, Qiujiang Jin, and Aryan Mokhtari \n
+  ArXiv preprint, 2023
 
 - [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
     *Ruichen Jiang* and Aryan Mokhtari \n
@@ -33,6 +34,10 @@ My current research interests lie in convex and non-convex optimization as well 
     ArXiv preprint, 2021
 
 == Conference Papers
+- [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
+    *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
+    AISTATS 2023
+
 - [https://openreview.net/forum?id=H34Ah8Loqgq Future Gradient Descent for Adapting the Temporal Shifting Data Distribution in Online Recommendation System] \n
     Mao Ye, *Ruichen Jiang*, Haoxiang Wang, Dhruv Choudhary, Xiaocong Du, Bhargav Bhushanam, Aryan Mokhtari, Arun Kejariwal, and Qiang Liu \n
     UAI 2022
