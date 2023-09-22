@@ -14,36 +14,25 @@ E-mail: rjiang \[at\] utexas \[dot\] edu \n
 ~~~
 
 == About me
-I am a 3rd-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
-Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from 
-[https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
+I am a 4th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
 My current research interests lie in convex and non-convex optimization as well as online learning problems. Most recently, I am working on *min-max optimization*, *second-order and higher-order methods*, and *bilevel optimization*. 
 
-== Preprints
+== Conference Papers
 
 - [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
-ArXiv preprint, 2023
+NeurIPS 2023 (*Spotlight*)
 
-- [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
-Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
-ArXiv preprint, 2023
-
+- [https://arxiv.org/abs/2308.07536 Projection-Free Methods for Stochastic Simple Bilevel Optimization with Convex Lower-level Problem] \n
+Jincheng Cao, *Ruichen Jiang*, Nazanin Abolfazli, Erfan Yazdandoost Hamedani, and Aryan Mokhtari \n
+NeurIPS 2023
 
 - [https://arxiv.org/abs/2302.08580 Online Learning Guided Curvature Approximation: A Quasi-Newton Method with Global Non-Asymptotic Superlinear Convergence] \n
  *Ruichen Jiang*, Qiujiang Jin, and Aryan Mokhtari \n
-  ArXiv preprint, 2023
+  COLT 2023
 
-- [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
-    *Ruichen Jiang* and Aryan Mokhtari \n
-    ArXiv preprint, 2022
-
-- [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection] \[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
-    *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
-    ArXiv preprint, 2021
-
-== Conference Papers
 - [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
     *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
     AISTATS 2023
@@ -67,4 +56,16 @@ ArXiv preprint, 2023
     IEEE/CIC ICCC 2020
     #, Aug. 2020
 
+== Preprints
 
+- [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
+Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
+ArXiv preprint, 2023
+
+- [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
+    *Ruichen Jiang* and Aryan Mokhtari \n
+    ArXiv preprint, 2022
+
+- [https://arxiv.org/abs/2102.04586 Tightness and Equivalence of Semidefinite Relaxations for MIMO Detection] \[[http://lsec.cc.ac.cn/~yafliu/Technical_Report_MIMO.pdf Companion Report]\] \n
+    *Ruichen Jiang*, Ya-Feng Liu, Chenglong Bao, and Bo Jiang \n
+    ArXiv preprint, 2021
