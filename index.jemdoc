@@ -21,6 +21,10 @@ My current research interests lie in convex and non-convex optimization as well 
 
 == Conference Papers
 
+- [https://arxiv.org/abs/2401.03058 Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate] \n
+*Ruichen Jiang*, Parameswaran Raman, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, and Volkan Cevher \n
+AISTATS 2024
+
 - [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
 *Ruichen Jiang* and Aryan Mokhtari \n
 NeurIPS 2023 (*Spotlight*)
