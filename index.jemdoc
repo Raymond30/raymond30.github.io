@@ -14,12 +14,30 @@ E-mail: rjiang \[at\] utexas \[dot\] edu \n
 ~~~
 
 == About me
-I am a 4th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
+I am a 5th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
 My current research interests lie in convex and non-convex optimization as well as online learning problems. Most recently, I am working on *min-max optimization*, *second-order and higher-order methods*, and *bilevel optimization*. 
 
-== Conference Papers
+== Selected Works
+
+- [https://arxiv.org/abs/2306.02212 Accelerated Quasi-Newton Proximal Extragradient: Faster Rate for Smooth Convex Optimization] \n
+*Ruichen Jiang* and Aryan Mokhtari \n
+NeurIPS 2023 (*Spotlight*)
+
+- [https://arxiv.org/abs/2302.08580 Online Learning Guided Curvature Approximation: A Quasi-Newton Method with Global Non-Asymptotic Superlinear Convergence] \n
+*Ruichen Jiang*, Qiujiang Jin, and Aryan Mokhtari \n
+COLT 2023
+
+- [https://arxiv.org/abs/2206.08868 A Conditional Gradient-based Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
+    *Ruichen Jiang*, Nazanin Abolfazli, Aryan Mokhtari, and Erfan Yazdandoost Hamedani \n
+    AISTATS 2023
+
+- [https://arxiv.org/abs/2202.09674 Generalized Optimistic Methods for Convex-Concave Saddle Point Problems] \n
+    *Ruichen Jiang* and Aryan Mokhtari \n
+    ArXiv preprint, 2022
+
+== All Conference Papers
 
 - [https://arxiv.org/abs/2401.03058 Krylov Cubic Regularized Newton: A Subspace Second-Order Method with Dimension-Free Convergence Rate] \n
 *Ruichen Jiang*, Parameswaran Raman, Shoham Sabach, Aryan Mokhtari, Mingyi Hong, and Volkan Cevher \n
@@ -60,7 +78,9 @@ NeurIPS 2023
     IEEE/CIC ICCC 2020
     #, Aug. 2020
 
-== Preprints
+== All Preprints
+
+- 
 
 - [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
 Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
