@@ -17,7 +17,7 @@ E-mail: rjiang \[at\] utexas \[dot\] edu \n
 I am a 5th-year Ph.D. student in the Department of ECE at UT Austin, advised by [https://sites.utexas.edu/mokhtari/ Prof. Aryan Mokhtari]. 
 Before UT, I received a B.E. degree in Electronic Engineering and a B.S. degree in Mathematics both from [https://www.tsinghua.edu.cn/en/ Tsinghua University] in 2020.  
 
-My current research interests lie in convex and non-convex optimization as well as online learning problems. Most recently, I am working on *min-max optimization*, *second-order and higher-order methods*, and *bilevel optimization*. 
+My current research interests focus on *convex* and *non-convex optimization*, particularly in using *online learning* techniques to design optimization methods. Recently, I have been working on min-max optimization, second-order and higher-order methods, and bilevel optimization. 
 
 == Selected Works
 
@@ -80,7 +80,29 @@ NeurIPS 2023
 
 == All Preprints
 
-- 
+- [https://arxiv.org/abs/2406.04592 Convergence Analysis of Adaptive Gradient Methods under Refined Smoothness and Noise Assumptions] \n
+Devyani Maladkar, *Ruichen Jiang*, Aryan Mokhtari \n
+ArXiv preprint, 2024
+
+- [https://arxiv.org/abs/2406.02016 Adaptive and Optimal Second-order Optimistic Methods for Minimax Optimization] \n
+*Ruichen Jiang*, Ali Kavis, Qiujiang Jin, Sujay Sanghavi, Aryan Mokhtari \n
+ArXiv preprint, 2024
+
+- [https://arxiv.org/abs/2406.01478 Stochastic Newton Proximal Extragradient Method] \n
+*Ruichen Jiang*, Michał Dereziński, Aryan Mokhtari \n
+ArXiv preprint, 2024
+
+- [https://arxiv.org/abs/2404.16731 Non-asymptotic Global Convergence Analysis of BFGS with the Armijo-Wolfe Line Search] \n
+Qiujiang Jin, *Ruichen Jiang*, Aryan Mokhtari \n
+ArXiv preprint, 2024
+
+- [https://arxiv.org/abs/2404.01267 Non-asymptotic Global Convergence Rates of BFGS with Exact Line Search] \n
+Qiujiang Jin, *Ruichen Jiang*, Aryan Mokhtari \n
+ArXiv preprint, 2024
+
+- [https://arxiv.org/abs/2402.08097 An Accelerated Gradient Method for Simple Bilevel Optimization with Convex Lower-level Problem] \n
+Jincheng Cao, *Ruichen Jiang*, Erfan Yazdandoost Hamedani, Aryan Mokhtari \n
+ArXiv preprint, 2024
 
 - [https://arxiv.org/abs/2306.02429 An Inexact Conditional Gradient Method for Constrained Bilevel Optimization] \n
 Nazanin Abolfazli, *Ruichen Jiang*, Aryan Mokhtari, and Erfan Yazdandoost Hamedani  \n
